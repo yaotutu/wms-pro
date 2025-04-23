@@ -11,3 +11,6 @@ logs/
 bfg.jar
 error.log
 server.log
+
+.venv/
+migrations/
