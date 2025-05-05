@@ -3,7 +3,7 @@
     <div style="margin-top: -7%">
       <div class="q-mb-xl" style="color: #4c5875; text-align: center">
         <div style="font-weight: bold; font-size: 100px; letter-spacing: 10px">
-          WELCOME
+          浙江工业大学
         </div>
         <div style="font-size: 22px; letter-spacing: 2px">
           WMS-Pro
@@ -25,7 +25,7 @@
         color: #4c5875;
       "
     >
-      —— &nbsp;&nbsp; Easy Come &nbsp; Easy Go &nbsp; &nbsp;——
+      —— &nbsp;&nbsp; 物流2101 &nbsp; &nbsp;——
     </div>
   </q-page>
 </template>
